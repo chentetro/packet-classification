@@ -36,4 +36,4 @@ I recorded a short explanation about the project and uploaded it to YouTube:
 
 ## 📝 Author
 👩‍💻 Chen Tetroashvili – 2nd-year Computer Science student at HIT  
-📌 [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin)
+📌 [LinkedIn Profile](https://www.linkedin.com/in/chen-tetroashvili-%D7%97%D7%9F-%D7%98%D7%98%D7%A8%D7%95%D7%90%D7%A9%D7%91%D7%99%D7%9C%D7%99-5-%D7%97%D7%95%D7%9E-%D7%97-%D7%99-junior-computer-science/)
