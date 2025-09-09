@@ -15,7 +15,7 @@ The project was implemented in a **Google Colab Notebook** and includes:
 ## 📺 Project Video
 I recorded a short explanation about the project and uploaded it to YouTube:  
 
-[![Watch the video] https://www.youtube.com/watch?v=GBPtnCTyRAw
+[![Watch the video] [https://www.youtube.com/watch?v=GBPtnCTyRAw]
 
 ---
 
